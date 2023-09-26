@@ -11,9 +11,7 @@ import java.util.Set;
  * HashSet은 객체를 저장하기전에 기존에 같은 객체가 있는지 확인한다. (equals와 hashCode를 오버라이딩해서 사용한다.)
  * 순서를 유지하고 싶으면 LinkedHashSet 클래스를 사용하면 된다.
  *
- * TreeSet
- * 범위 검색과 정렬에 유리한 컬렉션 클래스이다.
- * HashSet보다 데이터 추가, 삭제에 시간이 더 걸린다.
+ *
  */
 
 public class Ex_5 {
