@@ -1,7 +1,6 @@
-package Lamda;
+package Lambda;
 
 import java.util.function.Function;
-import java.util.function.Supplier;
 
 /**
  * 메서드 참조

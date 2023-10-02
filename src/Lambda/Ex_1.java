@@ -1,4 +1,4 @@
-package Lamda;
+package Lambda;
 
 /**
  * 람다식

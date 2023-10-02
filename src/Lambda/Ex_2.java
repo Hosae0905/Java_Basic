@@ -1,4 +1,4 @@
-package Lamda;
+package Lambda;
 
 /**
  * 함수형 인터페이스
